@@ -1,6 +1,6 @@
 # Google Calendar API
 
-This program was written to make use of the Google Calendar API. This is a Python script that authenticates with OAuth to add events to the user's calendar, complete with the ability to remove the last added event and to lista ll upcoming events for the day.
+This program was written to make use of the Google Calendar API. This is a Python script that authenticates with OAuth to add events to the user's calendar, complete with the ability to remove the last added event and to list all upcoming events for the day.
 
 
 
